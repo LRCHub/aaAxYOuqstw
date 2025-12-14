@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Slow & Easy",
+  "base_artist": "平井 大",
+  "createdAt": "2025-12-14T04:13:21.406946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Slow Down",
+      "artist": "Nick Walker",
+      "has_synced": true,
+      "path": "select/01_Slow_Down_Nick_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slow Jam 1",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/02_Slow_Jam_1_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slow Jam 1",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Slow_Jam_1_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Slow Hand",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/04_Slow_Hand_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Slow Hand",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/05_Slow_Hand_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Slow Poke",
+      "artist": "Pee Wee King",
+      "has_synced": true,
+      "path": "select/06_Slow_Poke_Pee_Wee_King.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Slow Down Summer",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/07_Slow_Down_Summer_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Slow Down Summer",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/08_Slow_Down_Summer_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take It Slow",
+      "artist": "Conner Smith",
+      "has_synced": true,
+      "path": "select/09_Take_It_Slow_Conner_Smith.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Her & I (Slow Jam II)",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/10_Her_&_I_(Slow_Jam_II)_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Her & I (Slow Jam II)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/11_Her_&_I_(Slow_Jam_II)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Her And I (Slow Jam 2)",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/12_Her_And_I_(Slow_Jam_2)_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Slow Burn (Yours Truly: 2018)",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/13_Slow_Burn_(Yours_Truly__2018)_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Slow Cookin'",
+      "artist": "Willie Jones",
+      "has_synced": true,
+      "path": "select/14_Slow_Cookin'_Willie_Jones.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Slow Dance in a Parking Lot",
+      "artist": "Jordan Davis",
+      "has_synced": true,
+      "path": "select/15_Slow_Dance_in_a_Parking_Lot_Jordan_Davis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Slow It Down",
+      "artist": "Jamestown Revival",
+      "has_synced": false,
+      "path": "select/16_Slow_It_Down_Jamestown_Revival.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Slow & Easy",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_Slow_&_Easy_平井大.txt"
+    }
+  ]
+}
